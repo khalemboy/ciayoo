@@ -4,7 +4,7 @@
 ```text
 MIT License
 
-Copyright (c) 2024 [Nama Anda atau Organisasi]
+Copyright (c) 2024 Khalemboy
 
 Izin diberikan, tanpa batasan, kepada siapa saja yang memperoleh salinan dari perangkat lunak ini dan dokumentasi yang menyertainya (secara keseluruhan disebut "Perangkat Lunak"), untuk menangani Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensub-lisensikan, dan/atau menjual salinan Perangkat Lunak, dengan ketentuan sebagai berikut:
 
